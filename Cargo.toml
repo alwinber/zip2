@@ -81,7 +81,6 @@ unreserved = []
 xz = ["lzma-rs/raw_decoder"]
 default = [
     "aes-crypto",
-    "bzip2",
     "deflate64",
     "deflate",
     "lzma",
